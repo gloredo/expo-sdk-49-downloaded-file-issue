@@ -1,4 +1,4 @@
-# expo-sdk-49-downloaded-file-issue
+# expo-sdk-49-downloaded-file-issue -> [Fixed](https://github.com/expo/expo/issues/24239#issuecomment-1743426042)
 Repro an issue from Expo SDK 49 that breaks expo-av and react-native-pdf when opening files downloaded through expo-file-system
 
 ## Android
